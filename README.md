@@ -5,4 +5,4 @@ Smart package that wraps [FooTable](http://fooplugins.com/plugins/footable-jquer
 Using [Meteorite](https://github.com/oortcloud/meteorite)…
 
 1. `mrt add footable`
-2. For the simplest invocation, have <table class="footable"></table> in a template, and call $('.footable').footable() in its .rendered() event.
+2. For the simplest invocation, have `<table class="footable"></table>` in a template, and call `$('.footable').footable()` in its `.rendered()` event.
