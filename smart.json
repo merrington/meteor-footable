@@ -3,7 +3,7 @@
   "description": "FooTable v2 packaged for meteor",
   "homepage": "https://github.com/weits/meteor-footable",
   "author": "Petr Svoboda",
-  "version": "2.0.1-4.1",
+  "version": "2.0.1-4.4",
   "git": "https://github.com/weits/meteor-footable.git",
   "packages": {}
 }
