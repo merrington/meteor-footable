@@ -1,9 +1,9 @@
 {
   "name": "footable",
   "description": "FooTable v2 packaged for meteor",
-  "homepage": "https://github.com/weits/meteor-footable",
-  "author": "Petr Svoboda",
+  "homepage": "https://github.com/merrington/meteor-footable",
+  "author": "Mike Errington",
   "version": "2.0.1-4.4",
-  "git": "https://github.com/weits/meteor-footable.git",
+  "git": "https://github.com/merrington/meteor-footable.git",
   "packages": {}
 }
